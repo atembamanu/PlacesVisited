@@ -1,0 +1,22 @@
+.container{
+    padding-top: 30px;
+}
+.row{
+    padding: 30px;
+}
+#show-places {
+    display: none;
+}
+
+#places {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+#places:hover {
+    text-decoration: underline;
+}
+label{
+    font-weight: 2;
+}
+.material-icons.orange600 { color: #FB8C00; }
